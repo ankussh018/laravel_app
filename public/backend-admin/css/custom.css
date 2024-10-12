@@ -1,0 +1,332 @@
+.page-item.active .page-link {
+    background-color: #FF4E00 !important;
+    border-color: #FF4E00 !important;
+
+}
+
+.page-link {
+    border-color: #FF4E00 !important;
+}
+.breadcrumb-item a{
+    color: #FF4E00 !important;
+}
+.dt-search {
+    background: black;
+    color: #fff;
+    height: 29px;
+    padding: 0 8px;
+}
+#loginnow {
+    background: #fe9400;
+    border-color: #fe9400;
+}
+.editBtn a{
+    background: #fe9400;
+    padding: 6px 10px;
+    color: #fff;
+    border-radius: 5px;
+}
+#exampleModaleditProduct .form-control {
+    height: 40px;
+}
+#exampleModaleditProduct .select2-selection__rendered {
+    height: 40px;
+    border: 1px solid #f1f1f1;
+    font-size: 14px;
+    color: #324253;
+    border-radius: 5px;
+    box-shadow: none;
+} 
+.select2-container--default .select2-selection--single {
+    border: none !important;
+}
+#exampleModaleditProduct [type="file"] {
+  height: 100%;
+    overflow: hidden;
+    width: 100%;
+    opacity: 0;
+}
+#exampleModaleditProduct .btn-primary {
+    color: #fff;
+    background-color: #fe9400;
+    border-color: #fe9400;
+    margin-top: 20px;
+}
+#exampleModaleditProduct [type="file"] + label {
+  background: #fe9400;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Rubik', sans-serif;
+    font-size: inherit;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    outline: none;
+    padding: 12px 20px;
+    position: absolute;
+    transition: all 0.3s;
+    vertical-align: middle;
+    top: 25px;
+    width: 100%;
+    left: 0;
+    pointer-events: none;
+    text-align: center;
+}
+.modal-footer {
+        border: none;
+}
+#exampleModaleditProduct textarea.form-control {
+    height: 100px;
+    padding: 6px;
+    line-height: 20px;
+}
+.form-group {
+    margin-bottom: 1rem;
+    position: relative;
+}
+.Commison-btn span {
+    border: 1px solid #fe9400;
+    display: block;
+    text-align: center;
+    padding: 6px;
+    background: #fe9400;
+    color: #fff;
+}
+.modal-footer {
+    justify-content: space-between;
+}
+.modal-footer .check-box {
+	transform: scale(2);
+    right: 40px;
+    position: relative;
+    text-align: right;
+}
+
+.modal-footer input[type="checkbox"] {
+    position: relative;
+    appearance: none;
+    width: 20px;
+    height: 10px;
+    background: #ccc;
+    border-radius: 50px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.modal-footer input:checked[type="checkbox"] {
+    background: #fe9400;
+}
+
+.modal-footer input[type="checkbox"]::after {
+    position: absolute;
+    content: "";
+    width: 10px;
+    height: 10px;
+    top: 0;
+    left: 0;
+    background: #fff;
+    border-radius: 50%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+
+.modal-footer input:checked[type="checkbox"]::after {
+    left: 50%;
+}
+.content-page h4.font-weight-bold {
+    margin-bottom: 20px;
+}
+.content-page .table thead th {
+    border-bottom: 0 solid;
+    border: 1px solid #e4dede;
+}
+.content-page .table tbody td {
+    
+    border: 1px solid #e4dede;
+}
+.viewButtonshow {
+        padding: 10px;
+}
+.group-Btn .btn {
+    border: 1px solid;
+    margin-bottom: 10px;
+}
+.group-Btn .btn1 {
+    background: #fe9400;
+    color: #fff;
+    border-color: #fe9400;
+} 
+.group-Btn .btn2 {
+    border-color: #fe9400;
+    color: #fe9400;
+}
+.multi-code-btn button {
+    background: #fe9400;
+    border-color: #fe9400;
+    color: #fff !important;
+}
+.multi-code-btn button a{
+     color: #fff !important;
+}
+.backBtn {
+    background: #fe9400;
+    color: #fff;
+    border-color: #fe9400;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.group-Btn-Three {
+       display: flex; 
+}
+.group-Btn-Three a {
+        margin: 3px;
+    width: 40px;
+    height: 40px;
+    line-height: 30px;
+    font-size: 20px;
+    color: #fff !important;
+}
+.info-stats5 {
+        background: #FF9400;
+}
+.info-stats5 .sale-num h3 {
+    color: #fff;
+}
+.info-stats5 .sale-num p {
+    color: #fff;
+}
+.info-stats4 {
+    background: #eff1f5;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    border-bottom: 1px solid #e0e3e8;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding: 1rem;
+    height: 115px;
+    margin-bottom: 30px;
+        justify-content: space-between;
+}
+.info-stats4 .info-icon {
+    height: 60px;
+    
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+    text-align: center;
+    background: #ffffff;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 2px #e5e9ec;
+    border-bottom: 1px solid #eeeeee;
+    display: none;
+}
+.info-stats4 .info-icon i {
+    font-size: 1.5rem;
+    color: #FF9400;
+}
+.info-stats4 .sale-num h3 {
+    margin: 0;
+}
+.info-stats4 .sale-num p {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    color: #888888;
+}
+.info-stats5 {
+    background: #FF9400;
+}
+.info-stats5 .sale-num p {
+    color: #fff;
+}
+.exampleModalorderHis {
+        background: #FF9400;
+    padding: 8px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.exampleModalorderHis:hover {
+    color:#fff;
+}
+/* The containerbox */
+.containerbox {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+      margin-left: 12px;
+  margin-bottom: 24px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.containerbox input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.containerbox .checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  border:1px solid #ff4e00;
+}
+
+/* On mouse-over, add a grey background color */
+.containerbox:hover input ~ .checkmark {
+  background-color: #ff4e00;
+  color:#fff;
+}
+
+/* When the checkbox is checked, add a blue background */
+.containerbox input:checked ~ .checkmark {
+  background-color: #ff4e00;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.containerbox .checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.containerbox input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.containerbox .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
